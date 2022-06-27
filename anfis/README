@@ -1,0 +1,3 @@
+treinamento.py e dataset2.txt - usados para treinar 
+app_planta.py - aplicação do treinamento q vai para rasp, dar jeito de plotar as coisas, analisar tempo para plotar, leitura do erro, limitar valor final de pwm
+
